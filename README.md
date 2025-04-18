@@ -7,10 +7,10 @@
 📖I'm excited to learn, experiment, and grow in the ever-evolving field of software engineering. Looking forward to collaborating on innovative solutions and pushing the boundaries of what's possible!
 
 ✨Feel free to connect – let's build something amazing together!
-
 ![](https://hit.yhype.me/github/profile?account_id=155945645)
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=KhoaNguyen-HCMUS&style=flat-square&color=FFFF00" />
+</p>
 
 ## Technologies
 <img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,cpp,python&gap=60" />
