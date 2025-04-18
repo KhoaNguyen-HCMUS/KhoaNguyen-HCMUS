@@ -9,7 +9,7 @@
 ✨Feel free to connect – let's build something amazing together!
 ![](https://hit.yhype.me/github/profile?account_id=155945645)
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KhoaNguyen-HCMUS&style=flat-square&color=FFFF00" />
+<img src="https://komarev.com/ghpvc/?username=KhoaNguyen-HCMUS&style=flat-square&color=00008B" />
 </p>
 
 ## Technologies
