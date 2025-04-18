@@ -8,6 +8,10 @@
 
 ✨Feel free to connect – let's build something amazing together!
 
+![](https://hit.yhype.me/github/profile?account_id=155945645)
+
+<img src="https://komarev.com/ghpvc/?username=KhoaNguyen-HCMUS&style=flat-square&color=FFFF00" />
+
 ## Technologies
 <img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,cpp,python&gap=60" />
 
