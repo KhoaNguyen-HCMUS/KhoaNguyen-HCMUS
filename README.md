@@ -34,3 +34,6 @@
 <a href="https://www.facebook.com/nlh.anhkhoa" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" width="40" style="border-radius: 8px; margin-right: 10px;" />
 </a>
+<a href="mailto:anhkhoa515.dev@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" style="border-radius: 8px; margin-right: 10px;" />
+</a>
