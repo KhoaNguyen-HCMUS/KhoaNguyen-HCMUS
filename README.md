@@ -15,9 +15,9 @@
 ## Technologies
 <img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,cpp,python&gap=60" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=vite,nodejs,react,tailwind,sass,gtk&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=vite,react,tailwind,sass,gtk&gap=60">
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=sqlite,mysql&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=sqlite,mysql,mongodb,express,nodejs&gap=60">
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=latex,md,jupyter&gap=60">
 
