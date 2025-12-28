@@ -40,3 +40,10 @@
 <a href="mailto:anhkhoa515.dev@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" style="border-radius: 8px; margin-right: 10px;" />
 </a>
+
+## Stats
+
+<div align="center">
+	<img height="225" align="center" src="https://github-readme-stats-omega-one-73.vercel.app/api/top-langs/?username=KhoaNguyen-HCMUS&layout=compact&theme=noctis_minimus&langs_count=10&hide=svg,shell,nwscript,cmake,pawn,makefile,procfile,batchfile,dockerfile,sdl,pascal,ejs,pov-ray%20sdl,jupyter%20notebook">
+	<img height="225" align="center" src="https://github-readme-stats-omega-one-73.vercel.app/api?username=KhoaNguyen-HCMUS&show_icons=true&theme=noctis_minimus&show=reviews,prs_merged,prs_merged_percentage">
+</div>
