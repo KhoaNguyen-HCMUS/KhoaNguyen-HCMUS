@@ -6,7 +6,7 @@
 
 📖I'm excited to learn, experiment, and grow in the ever-evolving field of software engineering. Looking forward to collaborating on innovative solutions and pushing the boundaries of what's possible!
 
-✨Feel free to connect – let's build something amazing together!
+✨Feel free to connect – let's build something amazing together.
 ![](https://hit.yhype.me/github/profile?account_id=155945645)
 
 <p align="center">
