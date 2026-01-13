@@ -15,30 +15,32 @@
 
 ## Technologies
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,cpp,python&gap=60" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python&gap=60" height="40"  />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=vite,react,tailwind,sass,gtk&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=vite,nextjs,react,tailwind,sass,gtk&gap=60" height="40" >
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=sqlite,mysql,mongodb,express,nodejs&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=sqlite,mysql,mongodb,express,nest,nodejs&gap=60" height="40" >
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md,jupyter&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=supabase,firebase,prisma,drizzle,redis&gap=60" height="40" >
+
+<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md,jupyter&gap=60" height="40" >
 
 ## Tools
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=figma,postman,vercel,vscode&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=jira,vercel,render,pm2,vscode,androidstudio&gap=60" height="40" >
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=photoshop,premiere,illustrator&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=figma,photoshop,premiere,illustrator&gap=60" height="40" >
 
 ## Contact
 
 <a href="https://www.linkedin.com/in/khoanguyenhcmus" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="border-radius: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="border-radius: 10px;" height="40" />
 </a>
 <a href="https://www.facebook.com/nlh.anhkhoa" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" width="40" style="border-radius: 8px; margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" width="40" style="border-radius: 8px; margin-right: 10px;" height="40"  />
 </a>
 <a href="mailto:anhkhoa515.dev@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" style="border-radius: 8px; margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" style="border-radius: 8px; margin-right: 10px;" height="40" />
 </a>
 
 ## Stats
